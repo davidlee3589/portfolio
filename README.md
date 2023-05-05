@@ -1,4 +1,4 @@
-My apologies for the confusion. Here's the updated table:
+
 
 | Name | Description | Link |
 | --- | --- | --- |

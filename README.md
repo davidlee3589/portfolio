@@ -1,4 +1,4 @@
-| Number | Name | Description | Link |
+| Number | Name | Link |
 | --- | --- | --- | --- |
 | 1 | Pokemon Project |  [Project2](https://github.com/davidlee3589/portfolio/tree/main/project2) |
 | 2 | Bubble Sort| [Act25](https://github.com/davidlee3589/portfolio/tree/main/act25) |
